@@ -124,3 +124,15 @@ nb-configuration.xml
 
 /results/
 /phpunit*.xml
+
+# exclude everything
+somefolder/*
+
+# exception to the rule
+!somefolder/.gitkeep 
+
+# exclude everything
+somefolder/*
+
+# exception to the rule
+!somefolder/.gitkeep 
