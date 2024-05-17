@@ -132,7 +132,7 @@ somefolder/*
 !somefolder/.gitkeep 
 
 # exclude everything
-# somefolder/*
+somefolder/*
 
-# # exception to the rule
-# !somefolder/.gitkeep 
+# exception to the rule
+!somefolder/.gitkeep 
